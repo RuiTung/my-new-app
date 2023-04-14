@@ -516,6 +516,137 @@
                 "{\"id\":1175,\"minScale\":500000,\"maxScale\":0,\"definitionExpression\":\"SPECIES_CODE ='GC'\",\"source\":{\"type\":\"dataLayer\",\"dataSource\":{\"type\":\"table\",\"workspaceId\":\"MPCM_ALL_PUB\",\"dataSourceName\":\"WHSE_FISH.FISS_FISH_RANGES_SP\",\"gdbVersion\":\"\"}},\"drawingInfo\":{\"renderer\":{\"type\":\"uniqueValue\",\"field1\":\"RANGE_CODE\",\"field2\":null,\"field3\":null,\"fieldDelimiter\":\", \",\"defaultSymbol\":null,\"defaultLabel\":null,\"uniqueValueInfos\":[{\"symbol\":{\"type\":\"esriSFS\",\"style\":\"esriSFSSolid\",\"color\":[115,178,115,255],\"outline\":{\"type\":\"esriSLS\",\"style\":\"esriSLSSolid\",\"color\":[0,0,0,255],\"width\":1}},\"value\":\"Core\",\"label\":\"Core\",\"description\":\"\"},{\"symbol\":{\"type\":\"esriSFS\",\"style\":\"esriSFSSolid\",\"color\":[233,255,190,255],\"outline\":{\"type\":\"esriSLS\",\"style\":\"esriSLSSolid\",\"color\":[0,0,0,255],\"width\":0.4}},\"value\":\"Peripheral\",\"label\":\"Peripheral\",\"description\":\"\"},{\"symbol\":{\"type\":\"esriSFS\",\"style\":\"esriSFSSolid\",\"color\":[151,219,242,255],\"outline\":{\"type\":\"esriSLS\",\"style\":\"esriSLSSolid\",\"color\":[0,0,0,255],\"width\":1}},\"value\":\"Estuarine\",\"label\":\"Estuarine\",\"description\":\"\"},{\"symbol\":{\"type\":\"esriSFS\",\"style\":\"esriSFSSolid\",\"color\":[255,190,190,255],\"outline\":{\"type\":\"esriSLS\",\"style\":\"esriSLSSolid\",\"color\":[0,0,0,255],\"width\":0.4}},\"value\":\"Exotic\",\"label\":\"Exotic\",\"description\":\"\"}]},\"transparency\":50,\"labelingInfo\":null}}"
             ],
             "metadataUrl": "https://catalogue.data.gov.bc.ca/dataset/e88a7041-2f71-4732-b237-80446d29f38e"
+        },
+        {
+            "type": "wms",
+            "id": "pub-whse-forest-vegetation-iapp-biological-monitor-poly--4138",
+            "title": "Invasive Alien Plant Biological Control Agent Monitoring Area ( 4138 )",
+            "isVisible": true,
+            "isQueryable": true,
+            "opacity": 0.65,
+            "minScale": null,
+            "maxScale": null,
+            "titleAttribute": null,
+            "attributes": [
+                {
+                    "id": "monitoring-id",
+                    "name": "MONITORING_ID",
+                    "title": "MONITORING ID",
+                    "visible": true
+                },
+                {
+                    "id": "treatment-id",
+                    "name": "TREATMENT_ID",
+                    "title": "TREATMENT ID",
+                    "visible": true
+                },
+                {
+                    "id": "site-id",
+                    "name": "SITE_ID",
+                    "title": "SITE ID",
+                    "visible": true
+                },
+                {
+                    "id": "feature-area",
+                    "name": "FEATURE_AREA",
+                    "title": "FEATURE AREA",
+                    "visible": true
+                },
+                {
+                    "id": "feature-code",
+                    "name": "FEATURE_CODE",
+                    "title": "FEATURE CODE",
+                    "visible": true
+                },
+                {
+                    "id": "invasive-plant",
+                    "name": "INVASIVE_PLANT",
+                    "title": "INVASIVE PLANT",
+                    "visible": true
+                },
+                {
+                    "id": "treatment-date",
+                    "name": "TREATMENT_DATE",
+                    "title": "TREATMENT DATE",
+                    "visible": true
+                },
+                {
+                    "id": "inspection-date",
+                    "name": "INSPECTION_DATE",
+                    "title": "INSPECTION DATE",
+                    "visible": true
+                },
+                {
+                    "id": "biological-agent",
+                    "name": "BIOLOGICAL_AGENT",
+                    "title": "BIOLOGICAL AGENT",
+                    "visible": true
+                },
+                {
+                    "id": "presence-ind",
+                    "name": "PRESENCE_IND",
+                    "title": "PRESENCE IND",
+                    "visible": true
+                },
+                {
+                    "id": "utm-easting",
+                    "name": "UTM_EASTING",
+                    "title": "UTM EASTING",
+                    "visible": true
+                },
+                {
+                    "id": "utm-northing",
+                    "name": "UTM_NORTHING",
+                    "title": "UTM NORTHING",
+                    "visible": true
+                },
+                {
+                    "id": "utm-zone",
+                    "name": "UTM_ZONE",
+                    "title": "UTM ZONE",
+                    "visible": true
+                },
+                {
+                    "id": "app-link",
+                    "name": "APP_LINK",
+                    "title": "APP LINK",
+                    "visible": true
+                },
+                {
+                    "id": "feature-area-sqm",
+                    "name": "FEATURE_AREA_SQM",
+                    "title": "FEATURE AREA SQM",
+                    "visible": true
+                },
+                {
+                    "id": "feature-length-m",
+                    "name": "FEATURE_LENGTH_M",
+                    "title": "FEATURE LENGTH M",
+                    "visible": true
+                },
+                {
+                    "id": "geometry",
+                    "name": "GEOMETRY",
+                    "title": "GEOMETRY",
+                    "visible": true
+                },
+                {
+                    "id": "objectid",
+                    "name": "OBJECTID",
+                    "title": "OBJECTID",
+                    "visible": true
+                },
+                {
+                    "id": "se-anno-cad-data",
+                    "name": "SE_ANNO_CAD_DATA",
+                    "title": "SE ANNO CAD DATA",
+                    "visible": true
+                }
+            ],
+            "queries": null,
+            "serviceUrl": "https://openmaps.gov.bc.ca/geo/pub/wms",
+            "layerName": "pub:WHSE_FOREST_VEGETATION.IAPP_BIOLOGICAL_MONITOR_POLY",
+            "styleName": "4138"
         }
     ],
     "tools": [

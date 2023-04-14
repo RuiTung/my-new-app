@@ -1,7 +1,7 @@
 ### This embedded map is based on the Simple Map Kit - a versatile and lightweight toolkit for building a simple web map.  
 &nbsp;  
 
-It has two main layers: *DataBC Layers: Special Protection Areas - All - Colour Filled* and *WMS layers: Forest Development Units ( 1417 )*, as well as a bonus layer: *DataBC Layers: Ranges - Goldfish (GC) - Colour Themed*.
+It has two main layers: *DataBC Layers: Special Protection Areas - All - Colour Filled* and *WMS layers: Forest Development Units ( 1417 )*, as well as two bonus layers: *DataBC Layers: Ranges - Goldfish (GC) - Colour Themed*, and *Invasive Alien Plant Biological Control Agent Monitoring Area ( 4138 )*
 
 &nbsp;
 
@@ -25,12 +25,12 @@ Above steps are the prerequisite that you need to complete in order to get the a
    * Special Protection Areas - All - Colour Filled
    * Forest Development Units (1417)
    * Ranges - Goldfish(GC) - Colour Themed
-&nbsp;
+   * Invasive Alien Plant Biological Control Agent Monitoring Area ( 4138 )  
 Meanwhile, there is a filter search bar for you to enter keywords to filter those three layers. And if you want to check any *Legend*, please toggle the *Legend*. Please note, all these layers are automatically embedded, and you don’t need to select. If you click any of the layers, it will navigate you to *Data Catelogue* page to show the information of the dataset.  
-5. The current solution supports showing embedded maps based on location search. You can enter any city in the BC province to see the detailed embedded map. And you can use the zoom function that sits on the top right corner to zoom in/out the map. Also, you can drag the map to check any city.  
-6. Quit the SMK app. Press *ctrl + c* on your keyboard to terminate the app.  
+1. The current solution supports showing embedded maps based on location search. You can enter any city in the BC province to see the detailed embedded map. And you can use the zoom function that sits on the top right corner to zoom in/out the map. Also, you can drag the map to check any city.  
+2. Quit the SMK app. Press *ctrl + c* on your keyboard to terminate the app.  
 &nbsp;  
 
 The Final embedded map is showing below:  
 
-![SMK_app](SMK_app.jpg)
+![SMK_embedded_map](SMK_embedded_map.jpg)
