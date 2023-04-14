@@ -1,0 +1,14 @@
+{
+    "name": "my-new-app",
+    "version": "0.0.1",
+    "description": "My Simple Map Kit application.",
+    "author": "SMK Developer",
+    "dependencies": {
+        "@bcgov/smk": "^1.1.9",
+        "esri-leaflet-vector": "^4.0.2",
+        "http-server": "^0.12.3"
+    },
+    "scripts": {
+        "view": "http-server -o -c-1"
+    }
+}

@@ -1,0 +1,45 @@
+{
+  "name":         "SMK Demo App",
+  "version":      "1.0.0",
+  "createdBy":    "smk",
+  "createdDate":  "2020-07-23T19:18:25.876Z",
+
+  "viewer": {
+      "type":     "leaflet",
+      "device":   "auto",
+      "baseMap":  "Topographic",
+      "esriApiKey": "AAPKcfd1434ef9e74bae92b385b113a82ea21yrpiavOMmiXPrqXIuDRmtERpHBZhOanDTLFtAhrkXehPgkn4PURcjiw0dQaGhmk"
+  },
+
+  "layers": [
+      { "type": "esri-dynamic"  },
+      { "type": "wms"           },
+      { "type": "vector"        }
+  ],
+
+  "tools": [
+      { "type": "about"         },
+      { "type": "baseMaps"      },
+      { "type": "bespoke"       },
+      { "type": "coordinate"    },
+      { "type": "directions"    },
+      { "type": "geomark"       },
+      { "type": "identify"      },
+      { "type": "layers"        },
+      { "type": "legend"        },
+      { "type": "list-menu"     },
+      { "type": "location"      },
+      { "type": "markup"        },
+      { "type": "measure"       },
+      { "type": "minimap"       },
+      { "type": "pan"           },
+      { "type": "query"         },
+      { "type": "scale"         },
+      { "type": "search"        },
+      { "type": "select"        },
+      { "type": "shortcut-menu" },
+      { "type": "toolbar"       },
+      { "type": "version"       },
+      { "type": "zoom"          }
+  ]
+}
