@@ -28,4 +28,9 @@ Above steps are the prerequisite that you need to complete in order to get the a
 &nbsp;
 Meanwhile, there is a filter search bar for you to enter keywords to filter those three layers. And if you want to check any *Legend*, please toggle the *Legend*. Please note, all these layers are automatically embedded, and you don’t need to select. If you click any of the layers, it will navigate you to *Data Catelogue* page to show the information of the dataset.  
 5. The current solution supports showing embedded maps based on location search. You can enter any city in the BC province to see the detailed embedded map. And you can use the zoom function that sits on the top right corner to zoom in/out the map. Also, you can drag the map to check any city.  
-6. Quit the SMK app. Press *ctrl + c* on your keyboard to terminate the app.
+6. Quit the SMK app. Press *ctrl + c* on your keyboard to terminate the app.  
+&nbsp;  
+
+The Final embedded map is showing below:  
+
+![SMK_app](SMK_app.jpg)
